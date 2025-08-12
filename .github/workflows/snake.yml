@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # raz na dobę (zmień jeśli chcesz częściej)
+  workflow_dispatch:      # możliwość ręcznego uruchomienia z zakładki Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake (svg for dark mode)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Sheejzuu
+          outputs: |
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%23111,%23222,%23333,%23444,%23555
+
+      - name: Commit generated files
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg || true
+          git commit -m "chore: update contribution snake" || echo "nothing to commit"
+          git push || true
