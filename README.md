@@ -1,52 +1,21 @@
-## Hi there! 👋
-
-I'm **Sheejzuu**, a passionate developer excited about exploring the world of coding and technology. Always eager to learn and grow, I believe in building impactful projects that can make a difference!
-
 ## About Me
 
-I'm currently based in **Poland**. While I don't have a specific company affiliation yet, I'm an enthusiastic learner and developer, diving into various technologies and programming languages.
+**__Hi, I'm Sheejzuu, a passionate full-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.__**
 
-## Skills & Technologies
+## My Skills
 
-js,html,css,git,docker,react,nodejs
-
-## Top Projects
-
-- [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)
-  - A personal project showcasing my skills and interests.
-  - ⭐ 0 Stars
-  - Language: Not specified
-  - Forks: 0, Issues: 0
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=radical)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Sheejzuu&theme=dark&show_icons=true&count_private=true">
 
-- **Public Repositories:** 1
-- **Followers:** 0
-- **Following:** 0
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Sheejzuu&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Sheejzuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Recent Activity
+## Connect with me
 
-Here are my latest activities on GitHub:
-- Created a new repository: [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu) on 2025-08-12
-- Updated the README file in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu) on 2025-08-12
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but stay tuned for future updates!
-
-## Connect with Me
-
-{}
-
-## ASCII Art
-
-```
-  ____  _                _                 
- / ___|| |__   ___  ___ (_)_____   _ _   _ 
- \___ \| '_ \ / _ \/ _ \| |_  / | | | | | |
-  ___) | | | |  __/  __/| |/ /| |_| | |_| |
- |____/|_| |_|\___|\___|/ /___|\__,_|\__,_|
-                      |__/                 
-```
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Sheejzuu</a> Email: Sheejzuu@gmail.com</p>
