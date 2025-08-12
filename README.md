@@ -1,49 +1,52 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sheejzuu+🖤;Full-Stack+Web+Developer;Frontend+%26+Backend+Enthusiast;Creating+Clean+%26+Modern+UI;Lover+of+Dark+Mode+%26+Animations" alt="Typing SVG" />
-</h1>
+## Hi there! 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/3xGJH2z.gif" height="200" alt="cool coding gif" />
-</p>
+I'm **Sheejzuu**, a passionate developer excited about exploring the world of coding and technology. Always eager to learn and grow, I believe in building impactful projects that can make a difference!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheejzuu&theme=dark&hide_border=true" height="160" />
-</div>
+## About Me
 
-<h2 align="center">⚡ Tech Stack & Frameworks</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-</p>
+I'm currently based in **Poland**. While I don't have a specific company affiliation yet, I'm an enthusiastic learner and developer, diving into various technologies and programming languages.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8800FF&height=120&section=footer" />
-</p>
+## Skills & Technologies
 
-<h2 align="center">📬 Connect with me</h2>
-<p align="center">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=9146FF" />
-  </a>
-  <a href="mailto:example@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-</p>
+js,html,css,git,docker,react,nodejs
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sheejzuu/Sheejzuu/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## Top Projects
+
+- [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)
+  - A personal project showcasing my skills and interests.
+  - ⭐ 0 Stars
+  - Language: Not specified
+  - Forks: 0, Issues: 0
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=radical)
+
+- **Public Repositories:** 1
+- **Followers:** 0
+- **Following:** 0
+
+## Recent Activity
+
+Here are my latest activities on GitHub:
+- Created a new repository: [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu) on 2025-08-12
+- Updated the README file in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu) on 2025-08-12
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share, but stay tuned for future updates!
+
+## Connect with Me
+
+{}
+
+## ASCII Art
+
+```
+  ____  _                _                 
+ / ___|| |__   ___  ___ (_)_____   _ _   _ 
+ \___ \| '_ \ / _ \/ _ \| |_  / | | | | | |
+  ___) | | | |  __/  __/| |/ /| |_| | |_| |
+ |____/|_| |_|\___|\___|/ /___|\__,_|\__,_|
+                      |__/                 
+```
