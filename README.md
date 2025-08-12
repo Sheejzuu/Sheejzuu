@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Sheejuu&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Sheejzuu&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
 <!-- ANIMATED INTRO -->
 <p align="center">
@@ -27,26 +27,26 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheejuu&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheejuu&theme=black-ice&hide_border=true&stroke=0000&background=000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheejzuu&theme=black-ice&hide_border=true&stroke=0000&background=000000" height="165" />
 </p>
 
 ---
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheejuu&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheejzuu&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## Animated Contribution Snake
-![snake gif](https://github.com/Sheejuu/Sheejuu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sheejzuu/Sheejzuu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sheejuu&color=grey&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sheejzuu&color=grey&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
