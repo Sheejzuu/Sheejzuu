@@ -1,52 +1,52 @@
-<!-- Nagłówek z animacją pisania -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheejzuu;Full-Stack+Web+Developer;Dark+Mode+Enthusiast;Always+Learning+New+Things" />
-</h1>
+<h1 align="center">Sheejzuu</h1>
+<p align="center">Full-Stack Web Developer</p>
 
----
-
-<!-- Snake animation -->
-### 🐍 Snake Animation
 <p align="center">
-  <img src="TU_WKLEJ_LINK_DO_SVG" alt="snake animation" />
-</p>
-
----
-
-<!-- Statystyki GitHub -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<!-- Najczęściej używane języki -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheejzuu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<!-- GitHub streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheejzuu&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<!-- Tech stack ikony -->
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
-
----
-
-<!-- Odznaki i licznik -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sheejzuu&label=Profile+Views&color=0e75b6&style=flat&color=black" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Sheejzuu&label=Profile+Views&color=000000&style=flat" />
   <img src="https://img.shields.io/github/followers/Sheejzuu?label=Followers&style=social" />
 </p>
 
 ---
 
-<p align="center" style="background-color:black;color:white;padding:10px;font-weight:bold;">
-  Built by Sheejzuu
+## Technical Skills
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/HTML">HTML</a> •
+  <a href="https://developer.mozilla.org/docs/Web/CSS">CSS</a> •
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">JavaScript</a> •
+  <a href="https://www.typescriptlang.org">TypeScript</a> •
+  <a href="https://react.dev">React</a> •
+  <a href="https://nextjs.org">Next.js</a> •
+  <a href="https://nodejs.org">Node.js</a> •
+  <a href="https://expressjs.com">Express</a> •
+  <a href="https://www.mongodb.com">MongoDB</a> •
+  <a href="https://www.postgresql.org">PostgreSQL</a> •
+  <a href="https://tailwindcss.com">Tailwind CSS</a> •
+  <a href="https://git-scm.com">Git</a> •
+  <a href="https://github.com">GitHub</a> •
+  <a href="https://code.visualstudio.com">VS Code</a>
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheejzuu&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sheejzuu&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideLabels=CCCCCC" height="150" />
+</p>
+
+---
+
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sheejzuu&theme=onestar&no-frame=true&no-bg=true&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+</p>
+
+---
+
+## Activity
+<p align="center">
+  <img src="output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
