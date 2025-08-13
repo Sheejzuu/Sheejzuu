@@ -10,20 +10,20 @@
 
 ## Technical Skills
 <p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/HTML">HTML</a> •
-  <a href="https://developer.mozilla.org/docs/Web/CSS">CSS</a> •
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">JavaScript</a> •
-  <a href="https://www.typescriptlang.org">TypeScript</a> •
-  <a href="https://react.dev">React</a> •
-  <a href="https://nextjs.org">Next.js</a> •
-  <a href="https://nodejs.org">Node.js</a> •
-  <a href="https://expressjs.com">Express</a> •
-  <a href="https://www.mongodb.com">MongoDB</a> •
-  <a href="https://www.postgresql.org">PostgreSQL</a> •
-  <a href="https://tailwindcss.com">Tailwind CSS</a> •
-  <a href="https://git-scm.com">Git</a> •
-  <a href="https://github.com">GitHub</a> •
-  <a href="https://code.visualstudio.com">VS Code</a>
+  <a href="#">HTML</a> •
+  <a href="#">CSS</a> •
+  <a href="#">JavaScript</a> •
+  <a href="#">TypeScript</a> •
+  <a href="#">React</a> •
+  <a href="#">Next.js</a> •
+  <a href="#">Node.js</a> •
+  <a href="#">Express</a> •
+  <a href="#">MongoDB</a> •
+  <a href="#">PostgreSQL</a> •
+  <a href="#">Tailwind CSS</a> •
+  <a href="#">Git</a> •
+  <a href="#">GitHub</a> •
+  <a href="#">VS Code</a>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sheejzuu&theme=onestar&no-frame=true&no-bg=true&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sheejzuu&theme=onestar&no-frame=true&no-bg=true&column=6&title=Stars,Followers,Commits,PR,Issues,Repos" />
 </p>
 
 ---
