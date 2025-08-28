@@ -1,52 +1,40 @@
-<h1 align="center">Sheejzuu</h1>
-<p align="center">Full-Stack Web Developer</p>
+## Hi there! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sheejzuu&label=Profile+Views&color=000000&style=flat" />
-  <img src="https://img.shields.io/github/followers/Sheejzuu?label=Followers&style=social" />
-</p>
+I'm **Sheejzuu**, a passionate developer based in **Poland**. I love exploring new technologies and building innovative projects. Let's connect and create something amazing together!
 
----
+## About Me
 
-## Technical Skills
-<p align="left">
-  <a href="#">HTML</a> •
-  <a href="#">CSS</a> •
-  <a href="#">JavaScript</a> •
-  <a href="#">TypeScript</a> •
-  <a href="#">React</a> •
-  <a href="#">Next.js</a> •
-  <a href="#">Node.js</a> •
-  <a href="#">Express</a> •
-  <a href="#">MongoDB</a> •
-  <a href="#">PostgreSQL</a> •
-  <a href="#">Tailwind CSS</a> •
-  <a href="#">Git</a> •
-  <a href="#">GitHub</a> •
-  <a href="#">VS Code</a>
-</p>
+I am a dedicated developer with a keen interest in software development. Currently, I am focused on expanding my skills and contributing to open-source projects. I believe in the power of collaboration and continuous learning.
 
----
+## Skills & Technologies
+
+html,css,docker,github,git,nodejs
+
+## Top Projects
+
+- [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)  
+  A personal repository showcasing my work.  
+  ⭐ 0 Stars | 🥇 Language: Not Specified | 🔄 0 Forks | 🐛 0 Issues
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheejzuu&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sheejzuu&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideLabels=CCCCCC" height="150" />
-</p>
 
----
+Here are some of my GitHub stats:  
+  - Public Repositories: **1**  
+  - Followers: **0**  
+  - Following: **0**  
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheejzuu&show_icons=true&theme=radical)
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sheejzuu&theme=onestar&no-frame=true&no-bg=true&column=6&title=Stars,Followers,Commits,PR,Issues,Repos" />
-</p>
+## Recent Activity
 
----
+- Updated README.md in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)  
+- Deleted .github directory in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)  
+- Updated README.md in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)  
+- Created snake.yml in [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)
 
-## Activity
-<p align="center">
-  <img src="output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+## Latest Blog Posts
+
+Currently, I do not have any blog posts to showcase. Check back later!
+
+## Connect with Me
+
+{}
