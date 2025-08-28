@@ -10,11 +10,7 @@ I am a dedicated developer with a keen interest in software development. Current
 
 html,css,docker,github,git,nodejs
 
-## Top Projects
 
-- [Sheejzuu](https://github.com/Sheejzuu/Sheejzuu)  
-  A personal repository showcasing my work.  
-  ⭐ 0 Stars | 🥇 Language: Not Specified | 🔄 0 Forks | 🐛 0 Issues
 
 ## GitHub Stats
 
